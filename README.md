@@ -36,7 +36,7 @@
 <br>
 <div align=center>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatheusGnoatto&theme=react&hide_border=true&border_radius=10&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats-MatheusGnoatto.vercel.app/api?username=MatheusGnoatto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGnoatto)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-MatheusGnoatto.vercel.app/api/top-langs/?username=MatheusGnoatto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
