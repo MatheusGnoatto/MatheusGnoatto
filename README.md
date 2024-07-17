@@ -4,7 +4,7 @@
 
 <div align=center>
     <img width="49%" src="https://streak-stats.demolab.com?user=mt-gnoatto&theme=react&hide_border=true&border_radius=10&exclude_days=Sun%2CMon" alt="GitHub Streak" />
-  <img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mt-gnoatto&show_icons=true&count_private=true&hide_border=true&border_radius=10&theme=react" alt="github stats" /> 
+  <img width="43%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mt-gnoatto&show_icons=true&count_private=true&hide_border=true&border_radius=10&theme=react" alt="github stats" /> 
   <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mt-gnoatto&layout=compact&hide_border=true&border_radius=10&theme=react" />
 </div>
   <br/>
