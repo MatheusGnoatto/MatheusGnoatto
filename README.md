@@ -1,6 +1,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matheus+Gnoatto!;" />
 </h1>
+
+<div align=center>
+    <img widht=390px src="https://streak-stats.demolab.com?user=MatheusGnoatto&theme=react&hide_border=true&border_radius=10&exclude_days=Sun%2CMon" alt="GitHub Streak" />
+  <img width="47%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusGnoatto&show_icons=true&count_private=true&hide_border=true&border_radius=10&theme=react" alt="github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusGnoatto&layout=compact&hide_border=true&border_radius=10&theme=react" />
+</div>
+  <br/>
+</div>
  
 <div align="center"> 
   <a href="mailto:matheusgnoattomg@gmail.com">
@@ -11,46 +19,7 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,go,mysql,vscode,github,linux,bash,git,r" />
+    <img src="https://skillicons.dev/icons?i=go,python,mysql,vscode,github,linux,bash,git" />
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatheusGnoatto&theme=react&hide_border=true&border_radius=10&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusGnoatto&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Presotto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusGnoatto&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-  <br/>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
