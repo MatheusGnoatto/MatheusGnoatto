@@ -3,7 +3,7 @@
 </h1>
 
 <div align=center>
-    <img widht=47% src="https://streak-stats.demolab.com?user=MatheusGnoatto&theme=react&hide_border=true&border_radius=10&exclude_days=Sun%2CMon" alt="GitHub Streak" />
+    <img widht="41%" src="https://streak-stats.demolab.com?user=MatheusGnoatto&theme=react&hide_border=true&border_radius=10&exclude_days=Sun%2CMon" alt="GitHub Streak" />
   <img width="47%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusGnoatto&show_icons=true&count_private=true&hide_border=true&border_radius=10&theme=react" alt="github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusGnoatto&layout=compact&hide_border=true&border_radius=10&theme=react" />
 </div>
