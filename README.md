@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGnoatto)](https://github.com/MatheusGnoatto/github-readme-stats)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matheus+Gnoatto!;" />
 </h1>
@@ -36,11 +38,8 @@
 <br>
 <div align=center>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatheusGnoatto&theme=react&hide_border=true&border_radius=10&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusGnoatto&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusGnoatto&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MatheusGnoatto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
