@@ -29,7 +29,7 @@
   
   <br/><br/><br/>
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
